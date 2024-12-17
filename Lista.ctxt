@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Lista
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ lista\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Lista()
+comment2.params=
+comment2.target=Arista\ getPrimero()
+comment3.params=
+comment3.target=boolean\ estaVacia()
+comment4.params=destino
+comment4.target=void\ agregarAdyacencia(java.lang.Object)
+comment5.params=destino\ peso
+comment5.target=void\ agregarAdyacencia(java.lang.Object,\ float)
+comment6.params=nodo
+comment6.target=boolean\ inserta(Arista)
+comment7.params=destino
+comment7.target=boolean\ existe(java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

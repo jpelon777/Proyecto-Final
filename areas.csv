@@ -1,0 +1,14 @@
+Recepcion,Urgencias;Consulta General;Administracion
+Urgencias,Recepcion;Radiologia;Quirofano;Cuidados Intensivos
+Consulta General,Recepcion;Pediatria;Laboratorio
+Pediatria,Consulta General;Maternidad
+Radiologia,Urgencias;Laboratorio
+Hospitalizacion,Cuidados Intensivos;Rehabilitacion
+Cuidados Intensivos,Urgencias;Hospitalizacion
+Quirofano,Urgencias;Rehabilitacion
+Rehabilitacion,Quirofano;Hospitalizacion
+Farmacia,Recepcion;Consulta General
+Laboratorio,Consulta General;Radiologia
+Maternidad,Pediatria
+Cafeteria,Recepcion;Administracion
+Administracion,Recepcion;Cafeteria

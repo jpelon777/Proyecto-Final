@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Cita
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ cita\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=paciente\ doctor\ area
+comment1.target=Cita(Paciente,\ Doctor,\ Area)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

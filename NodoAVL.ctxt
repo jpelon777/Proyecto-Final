@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=NodoAVL
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ sadsda\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=valor
+comment1.target=NodoAVL(java.lang.Comparable)
+comment2.params=
+comment2.target=java.lang.Comparable\ getValor()
+comment3.params=valor
+comment3.target=void\ setValor(java.lang.Comparable)
+comment4.params=
+comment4.target=NodoAVL\ getIzq()
+comment5.params=izq
+comment5.target=void\ setIzq(NodoAVL)
+comment6.params=
+comment6.target=NodoAVL\ getDer()
+comment7.params=der
+comment7.target=void\ setDer(NodoAVL)
+comment8.params=
+comment8.target=int\ getAltura()
+comment9.params=altura
+comment9.target=void\ setAltura(int)
+numComments=10

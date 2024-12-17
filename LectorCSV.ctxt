@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LectorCSV
+comment1.params=rutaArchivo\ arbolPacientes
+comment1.target=void\ leerPacientes(java.lang.String,\ ArbolAVL)
+comment2.params=rutaArchivo\ arbolDoctores
+comment2.target=void\ leerDoctores(java.lang.String,\ ArbolAVL)
+comment3.params=rutaArchivo\ grafoAreas
+comment3.target=void\ leerAreasConConexiones(java.lang.String,\ Grafo)
+numComments=4

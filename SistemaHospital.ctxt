@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=SistemaHospital
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=sc
+comment2.target=void\ buscarPaciente(java.util.Scanner)
+comment3.params=sc
+comment3.target=void\ buscarDoctor(java.util.Scanner)
+comment4.params=sc
+comment4.target=void\ agendarCita(java.util.Scanner)
+comment5.params=cola
+comment5.target=void\ mostrarCitas(ColaDinamica)
+comment6.params=sc
+comment6.target=void\ marcarCitaComoAtendida(java.util.Scanner)
+comment7.params=pila
+comment7.target=void\ mostrarCitasAtendidas(PilaDinamica)
+comment8.params=
+comment8.target=void\ ordenarPacientesPorPrioridad()
+numComments=9
